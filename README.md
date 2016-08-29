@@ -1,1 +1,1 @@
-# AWD.Library
+# A client library for AdventureWorksDemo
