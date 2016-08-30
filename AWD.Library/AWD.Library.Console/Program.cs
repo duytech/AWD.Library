@@ -8,8 +8,8 @@
             var config = new ApiConfig();
             config.BaseUrl = @"http://localhost/AW.WebAPI/odata";
 
-            var emp = new EmployeeParser(config);
-            var employee = emp.GetEmployee();
+            var emp = new EmployeeClient(config);
+            var employee = emp.Get();
         }
     }
 }
