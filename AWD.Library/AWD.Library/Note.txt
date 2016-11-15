@@ -1,0 +1,1 @@
+﻿// Create from .net core class library template
